@@ -108,6 +108,7 @@ export default function Home() {
                         </h2>
                         <h1>
                           Jewellery
+                          Changed 
                         </h1>
                         <p>
                           Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia
